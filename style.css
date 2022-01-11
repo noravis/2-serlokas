@@ -1,0 +1,54 @@
+body {
+    background-color:#e9ebed;
+}
+
+.main-pic {
+    float:left;
+    width: 300px;
+    display: inline-block;
+}
+
+.visas-text {
+    font-family: Montserrat; 
+    background-color: #e9ebed; 
+    width:300px; 
+    display: inline-block; 
+    text-align: center; 
+    float: left; 
+    margin-top: 10%;
+}
+
+.haš-vienas {
+    font-weight:bolder; 
+    font-size: 40pt; 
+    color: #353e49; 
+    font-family: DM Sans; 
+    margin:0px;
+}
+
+.tekstas {
+    font-family: Montserrat;
+    font-weight: bold; 
+    color: #666884;
+}
+
+.namo {
+    font-weight: bold; 
+    color: #90929e; 
+    font-size: 7pt; 
+    font-family: Montserrat;
+}
+.nuoroda {
+    padding: 10px; 
+    font-family: Montserrat; 
+    background-color: #696e8a; 
+    color: #e9eef7; 
+    display:inline-block; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-size: 10pt; 
+    margin-top: 10px; 
+    margin-left: 5px; 
+    margin-right: 5px; 
+    margin-bottom: 10px;
+}
